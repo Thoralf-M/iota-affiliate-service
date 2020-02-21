@@ -13,11 +13,16 @@ service to process and manage affiliate programs using IOTA and paying IOTA
 ## Backend 
 
 Nodejs Application
+
 Github: https://github.com/einfachiota/iota-affiliate-service
+
 Maintainer: @sascha1337
 
 
 ## Web Frontend
-NuxtJS (VueJS with SSR) 
+
+VueJS Application
+
 Github: https://github.com/einfachiota/iota-affiliate-service-web
+
 Maintainer: @sascha1337
